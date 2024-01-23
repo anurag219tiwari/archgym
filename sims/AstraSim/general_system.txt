@@ -1,0 +1,12 @@
+scheduling-policy: FIFO
+endpoint-delay: 1
+active-chunks-per-dimension: 20
+preferred-dataset-splits: 263
+boost-mode: 1
+all-reduce-implementation: direct_ring_halvingDoubling
+all-gather-implementation: direct_ring_halvingDoubling
+reduce-scatter-implementation: direct_ring_halvingDoubling
+all-to-all-implementation: direct_direct_direct
+collective-optimization: baseline
+intra-dimension-scheduling: SCF
+inter-dimension-scheduling: baseline

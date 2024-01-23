@@ -1,0 +1,172 @@
+
+SNAPSim run with Simian PDES Engine
+Version = orig-2015.11.20.1
+Cluster model = SingleCielo
+
+===========================================
+----------SIMIAN-PIE PDES ENGINE-----------
+===========================================
+MPI: OFF
+
+Nodes = 50 
+Cores = 800 
+Cores per node = {0: 16, 1: 16, 2: 16, 3: 16, 4: 16, 5: 16, 6: 16, 7: 16, 8: 16, 9: 16, 10: 16, 11: 16, 12: 16, 13: 16, 14: 16, 15: 16, 16: 16, 17: 16, 18: 16, 19: 16, 20: 16, 21: 16, 22: 16, 23: 16, 24: 16, 25: 16, 26: 16, 27: 16, 28: 16, 29: 16, 30: 16, 31: 16, 32: 16, 33: 16, 34: 16, 35: 16, 36: 16, 37: 16, 38: 16, 39: 16, 40: 16, 41: 16, 42: 16, 43: 16, 44: 16, 45: 16, 46: 16, 47: 16, 48: 16, 49: 16} 
+
+Begin SNAPSim loops
+--------------------------------
+Timestep 0
+  Outer 0
+    Inner 0
+    Inner 1
+  Outer 1
+    Inner 0
+    Inner 1
+Timestep 1
+  Outer 0
+    Inner 0
+    Inner 1
+  Outer 1
+    Inner 0
+    Inner 1
+Timestep 2
+  Outer 0
+    Inner 0
+    Inner 1
+  Outer 1
+    Inner 0
+    Inner 1
+Timestep 3
+  Outer 0
+    Inner 0
+    Inner 1
+  Outer 1
+    Inner 0
+    Inner 1
+Timestep 4
+  Outer 0
+    Inner 0
+    Inner 1
+  Outer 1
+    Inner 0
+    Inner 1
+Almost done
+Hardware statistics:
+L1_int_misses 	:	0
+L2_float_hits 	:	0
+L1_float_misses 	:	0
+core_count 	:	800
+L1_int_hits 	:	0
+VECTOR ops 	:	97075200
+intranode comm time 	:	0
+L2_int_hits 	:	0
+RAM accesses 	:	0.0
+node_count 	:	50
+L2 cycles 	:	0.0
+L1 cycles 	:	245214720.0
+Thread Efficiency 	:	5300.0
+INTVEC cycles 	:	0
+L2_int_misses 	:	0
+iALU cycles 	:	157478400.0
+INTVEC ops 	:	0
+internode comm time 	:	0
+fDIV cycles 	:	0
+CPU cycles 	:	0
+VECTOR cycles 	:	48537600.0
+fALU cycles 	:	33600000.0
+L1_float_hits 	:	51086400
+L2_float_misses 	:	0
+RAM cycles 	:	0.0
+Software statistics:
+outer_i 		:	1
+inner_i 		:	1
+Almost done2
+SIMULATION COMPLETED IN: 1.56035 SECONDS
+SIMULATED EVENTS: 34700
+EVENTS PER SECOND: 22238.600314
+===========================================
+
+SNAPSim run with Simian PDES Engine
+Version = orig-2015.11.20.1
+Cluster model = SingleCielo
+
+===========================================
+----------SIMIAN-PIE PDES ENGINE-----------
+===========================================
+MPI: OFF
+
+Nodes = 50 
+Cores = 800 
+Cores per node = {0: 16, 1: 16, 2: 16, 3: 16, 4: 16, 5: 16, 6: 16, 7: 16, 8: 16, 9: 16, 10: 16, 11: 16, 12: 16, 13: 16, 14: 16, 15: 16, 16: 16, 17: 16, 18: 16, 19: 16, 20: 16, 21: 16, 22: 16, 23: 16, 24: 16, 25: 16, 26: 16, 27: 16, 28: 16, 29: 16, 30: 16, 31: 16, 32: 16, 33: 16, 34: 16, 35: 16, 36: 16, 37: 16, 38: 16, 39: 16, 40: 16, 41: 16, 42: 16, 43: 16, 44: 16, 45: 16, 46: 16, 47: 16, 48: 16, 49: 16} 
+
+Begin SNAPSim loops
+--------------------------------
+Timestep 0
+  Outer 0
+    Inner 0
+    Inner 1
+  Outer 1
+    Inner 0
+    Inner 1
+Timestep 1
+  Outer 0
+    Inner 0
+    Inner 1
+  Outer 1
+    Inner 0
+    Inner 1
+Timestep 2
+  Outer 0
+    Inner 0
+    Inner 1
+  Outer 1
+    Inner 0
+    Inner 1
+Timestep 3
+  Outer 0
+    Inner 0
+    Inner 1
+  Outer 1
+    Inner 0
+    Inner 1
+Timestep 4
+  Outer 0
+    Inner 0
+    Inner 1
+  Outer 1
+    Inner 0
+    Inner 1
+Almost done
+Hardware statistics:
+L1_int_misses 	:	0
+L2_float_hits 	:	0
+L1_float_misses 	:	0
+core_count 	:	800
+L1_int_hits 	:	0
+VECTOR ops 	:	97075200
+intranode comm time 	:	0
+L2_int_hits 	:	0
+RAM accesses 	:	0.0
+node_count 	:	50
+L2 cycles 	:	0.0
+L1 cycles 	:	245214720.0
+Thread Efficiency 	:	5300.0
+INTVEC cycles 	:	0
+L2_int_misses 	:	0
+iALU cycles 	:	157478400.0
+INTVEC ops 	:	0
+internode comm time 	:	0
+fDIV cycles 	:	0
+CPU cycles 	:	0
+VECTOR cycles 	:	48537600.0
+fALU cycles 	:	33600000.0
+L1_float_hits 	:	51086400
+L2_float_misses 	:	0
+RAM cycles 	:	0.0
+Software statistics:
+outer_i 		:	1
+inner_i 		:	1
+Almost done2
+SIMULATION COMPLETED IN: 1.478625 SECONDS
+SIMULATED EVENTS: 34700
+EVENTS PER SECOND: 23467.7487531
+===========================================
